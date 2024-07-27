@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo1 from './logo1.svg';
 import './App.css';
 
 function App() {
@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          AWS despliegue porjecto React!
+          Prueba despliegue continuo!
         </p>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo1} className="App-logo" alt="logo" />
         <p>
           Arq Cloud
         </p>
